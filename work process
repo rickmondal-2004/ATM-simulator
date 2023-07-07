@@ -1,4 +1,4 @@
 1. The code first initializes the ATM pin and amount. The pin is set to 1234, and the amount is set to 1000.
 2. The code then gets the ATM pin from the user. The user is prompted to enter their ATM pin, and their input is stored in the variable user pin.
 3. The code checks if the user entered the correct pin.. The user's pin is compared to the initialized pin, and if they are not equal, the code prints an error message and returns 0.
-4. If the user entered the correct pin, the code displays the ATM menu. The menu lists the different options that the user can select, such as 
+4. If the user entered the correct pin, the code displays the ATM menu. The menu lists the different options that the user can select, such as checking
