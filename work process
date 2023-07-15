@@ -5,4 +5,4 @@
 5. The code then gets the user's choice. The user is prompted to enter their choice, and their input is stored in the variable choice.
 6. The code uses a switch statement to handle the user's choice. The switch statement checks the value of choice, and then performs the corresponding operation. For example, if the user chooses to check their balance, the code will print the user's balance.
 
- 1.	If the user chooses to exit the ATM, the code prints a thank you message and returns 0.
+ .	If the user chooses to exit the ATM, the code prints a thank you message and returns 0.
