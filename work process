@@ -10,4 +10,4 @@ Here is a step-by-step example of how the code would work:
 1. The user enters their ATM pin as 1234.
 2. The code checks if the user entered the correct pin, and since they did, it displays the ATM menu.
 3. The user chooses to check their balance.
-4.The code prints the user's balance, which is 1000.
+4. The code prints the user's balance, which is 1000.
