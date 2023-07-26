@@ -12,4 +12,5 @@ Here is a step-by-step example of how the code would work:
 3. The user chooses to check their balance.
 4. The code prints the user's balance, which is 1000.
 5. The user chooses to exit the ATM.
-6. The code prints a 
+6. The code prints a thank you message and returns 0.
+
